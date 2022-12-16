@@ -1,0 +1,5 @@
+train_video
+weights.pt
+solution.zip
+.venv
+__pycache__
